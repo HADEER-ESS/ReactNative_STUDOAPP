@@ -1,6 +1,6 @@
 <h1>About Application</h1>
 
-<h3>Techniques </h3>
+<h3>Technology</h3>
 <p>-Use Context for state managment</p>
 <p>-Firebase Cloud FireStore</p>
 
